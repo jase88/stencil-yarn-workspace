@@ -1,0 +1,7 @@
+{
+  "name": "@company/helpers",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "3.7.2"
+  }
+}

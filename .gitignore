@@ -1,0 +1,16 @@
+.idea
+.vscode
+.stencil
+node_modules
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+.env
+$RECYCLE.BIN
+dist
+
+*.tmp
+*.tmp.*
+
+packages/stencil-components/www/
+packages/stencil-components/loader/
